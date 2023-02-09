@@ -2,7 +2,7 @@
 DOMAIN-SUFFIX, cc98.org, ZJU 
 DOMAIN-SUFFIX, nexushd.org, ZJU 
 DOMAIN-SUFFIX, zju.edu.cn, ZJU 
-DOMAIN-SUFFIX, zucc.edu.cn, ZJU 
+DOMAIN-SUFFIX, www.zucc.edu.cn, ZJU 
 
 # > Library, ZJU 
 DOMAIN-SUFFIX,acm.org, ZJU 
@@ -23,3 +23,7 @@ DOMAIN-SUFFIX,sslibrary.com, ZJU
 DOMAIN-SUFFIX,wanfangdata.com.cn, ZJU 
 DOMAIN-SUFFIX,webofknowledge.com, ZJU 
 DOMAIN-SUFFIX,webofscience.com, ZJU 
+
+# > FOR SSH
+IP-CIDR, 10.68.67.205,ZJU
+IP-CIDR, 10.61.252.30,ZJU
