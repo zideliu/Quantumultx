@@ -25,7 +25,7 @@ const yza = '/visitors';
 
 if ($request.url.indexOf(user) != -1){
 Lucky.result.device_id = "78B61F3B-706F-44E8-9E4D-F68BDA1BA896";
-Lucky.result._id = "6358cb93e7a295001482d9aa";
+Lucky.result._id = "60f965b9b3208e00114dfd64";
 Lucky.result.svip_given = 365;
 Lucky.result.ranking_above = 91;
 Lucky.result.is_visitor = false;
@@ -72,7 +72,7 @@ Lucky.result.bound_status.weixin = {
         "is_bound" : true
       };
 Lucky.result.bound_statuscaiyun = {
-        "id" : "6358cb93e7a295001482d9aa",
+        "id" : "60f965b9b3208e00114dfd64",
         "username" : "",
         "is_bound" : true
       };
@@ -80,7 +80,7 @@ Lucky.result.bound_statuscaiyun = {
 
 if ($request.url.indexOf(yza) != -1){
 Lucky.result.device_id = "78B61F3B-706F-44E8-9E4D-F68BDA1BA896";
-Lucky.result._id = "6358cb93e7a295001482d9aa";
+Lucky.result._id = "60f965b9b3208e00114dfd64";
 Lucky.result.svip_given = 365;
 Lucky.result.ranking_above = 91;
 Lucky.result.is_visitor = false;
@@ -127,7 +127,7 @@ Lucky.result.bound_status.weixin = {
         "is_bound" : true
       };
 Lucky.result.bound_statuscaiyun = {
-        "id" : "6358cb93e7a295001482d9aa",
+        "id" : "60f965b9b3208e00114dfd64",
         "username" : "",
         "is_bound" : true
       };
